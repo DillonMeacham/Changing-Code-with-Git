@@ -4,7 +4,7 @@
 In this project, we are making code changes for a train-schedule app. We are a developer working with a dev team who uses feature branches to manage changes. 
 <br />
 <br />
-'Feature Branches' are a very common standard for dev teams. Whenever code changes are made, a branch is used in source control to make changes to the code and later merge the branch through a pull request. 
+'Feature Branches' are a very common standard for dev teams. Whenever code changes are made, a branch is used in source control to make changes to the code and later merge the branch through a pull request. This is useful to mantain multiple versions of the code with different changes simultaneously. 
 <br />
 <br />
 Instead of the app's main page header reading "Train Schedule," the customer wants it to read “Find your train!”
