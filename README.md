@@ -20,7 +20,7 @@ Let’s get started.
 
 <h2>Project walk-through:</h2>
 
-<h1> First we have to SSH into the CentOS Cloud Server we will be working in.
+First we have to SSH into the CentOS Cloud Server we will be working in.
 <br />
 <br />
 <img src="https://imgur.com/lfKREUO.png" height="80%" width="80%" />
